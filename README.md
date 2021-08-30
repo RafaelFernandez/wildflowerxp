@@ -3,8 +3,6 @@
 [Wildflower](https://github.com/RafaelFernandez/wildflowerxp)  
 [Tech Stack](#tech-stack)  
 [Running Wildflower](#running-wildflower)  
-[Architecture](#architecture)
-[Observations](#observations)  
 [Developers Team](#developers-team)  
 [Contributors](#contributors-✨)
 
