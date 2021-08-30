@@ -1,69 +1,51 @@
-# Localife - your next local adventures
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-> Backend client files for the localife app. ([localife Frontend](https://github.com/geuxor/localife-frontend)  )
-
-[![GitHub license](https://img.shields.io/github/license/geuxor/localife-frontend)](https://github.com/geuxor/localife-frontend/blob/develop/LICENSE)[![GitHub release](https://img.shields.io/github/release/geuxor/localife-frontend)](https://github.com/geuxor/localife-frontend/releases/tag/0.9.0)[![GitHub contributors](https://img.shields.io/github/contributors/geuxor/localife-frontend)](https://github.com/geuxor/localife-frontend/graphs/contributors)[![GitHub issues](https://img.shields.io/github/issues/geuxor/localife-frontend)](https://GitHub.com/geuxor/localife-frontend/issues)
-
-<span align="center">![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)</span>
-
-<p align="center">
- <img src="./readmeFiles/logo-small.png" alt="localife logo" width="150px;" >
-</p>
-
-Localife is an app that encourages you to explore the world by enjoying the life of a local!
-It started with an idea of a scratch map and evolved into a good looking, smooth running and fun Web App.
-Localife is made with React and Express and with the help of Postgres and Redis.
-
-Once you're logged in (0Auth is coming next...), start searching by location and dates - you will discover many type of local experiences listed while visible in a map! You can select a map pin for more information and see the description of each experience. You can book by date and amount of people using Stripe Connect and see a list of bookings and (coming soon... start chatting with the provider). 
-
-It's very easy to register as a provider, and you can start creating experiences in no-time. As a provider you decide the price, location and images.Travellers will soon be booking your experience and you can start sharing your daily activities, stories, common interests and favorite spots with the visitor. 
-
-## Teaser:
-
-Checkout the video demo of the app:
-
-[![Watch the video](./readmeFiles/back500.png)](https://www.youtube.com/watch?v=8ktIg66ARAk)
-
 ## Table of contents
 
-[localife backend](https://github.com/geuxor/localife-backend)  
+[Wildflower](https://github.com/RafaelFernandez/wildflowerxp)  
 [Tech Stack](#tech-stack)  
-[Running localife](#running-localife)  
+[Running Wildflower](#running-wildflower)  
 [Architecture](#architecture)
 [Observations](#observations)  
 [Developers Team](#developers-team)  
 [Contributors](#contributors-✨)
 
+# Wildflower - your wildest travel adventures
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![GitHub license](https://img.shields.io/github/license/RafaelFernandez/wildflowerxp)](https://github.com/RafaelFernandez/wildflowerxp/blob/develop/LICENSE)[![GitHub release](https://img.shields.io/github/release/RafaelFernandez/wildflowerxp)](https://github.com/RafaelFernandez/wildflowerxp/releases/tag/0.9.0)[![GitHub contributors](https://img.shields.io/github/contributors/RafaelFernandez/wildflowerxp)](https://github.com/RafaelFernandez/wildflowerxp/graphs/contributors)[![GitHub issues](https://img.shields.io/github/issues/RafaelFernandez/wildflowerxp)](https://GitHub.com/RafaelFernandez/wildflowerxp/issues)
+
+<span align="center">![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)</span>
+
+<p align="center">
+ <img src="./readmeFiles/logo-small.png" alt="wildflowerxp logo" width="150px;" >
+</p>
+
+Wildflowerxp is an app that encourages people to live adrenaline rich experiences around the world!
+It started with an idea and evolved into a good looking, smooth running and fun Web App.
+Wildflowerxp is made with Ruby on Rails and PostgresQL.
+
+Once you're logged in start searching by location and dates - you will discover many type of  experiences listed while visible in a map! You can select a map pin for more information and see the description of each experience. You can book by date and amount of people.
+
+## Teaser:
+<p align="center">
+ <img src="./readmeFiles/screen1.png" alt="localife logo" width="150px;" >
+</p>
 
 ## Tech Stack
 
-### Backend
-
-![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
-![https://redis.io](https://img.shields.io/badge/redis--v1--white?style=for-the-badge&logo=redis)
-![https://expressjs.com](https://img.shields.io/badge/express--v1--white?style=for-the-badge&logo=express)
+![https://www.ruby-lang.org/en](https://img.shields.io/badge/ruby--v1--white?style=for-the-badge&logo=ruby)
+![https://rubyonrails.org/](https://img.shields.io/badge/rails--v1--white?style=for-the-badge&logo=rails)
 ![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
-![https://sequelize.org](https://img.shields.io/badge/sequelize--v1--white?style=for-the-badge&logo=sequelize)
-![https://github.com/marak/Faker.js](https://img.shields.io/badge/faker--v1--white?style=for-the-badge&logo=npm)
-![https://eslint.org/](https://img.shields.io/badge/eslint--v1--white?style=for-the-badge&logo=eslint)
 ![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
-
-### Frontend
-
 ![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
-![https://www.material-ui.com](https://img.shields.io/badge/material--ui--white?style=for-the-badge&logo=materialui)
-![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
-![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
-![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
-![https://ant.design/](https://img.shields.io/badge/antd--v1--white?style=for-the-badge&logo=npm)
-![https://github.com/axios/axios](https://img.shields.io/badge/axios--v1--white?style=for-the-badge&logo=npm)
-![https://redux.js.org/](https://img.shields.io/badge/redux--v1--white?style=for-the-badge&logo=redux)
-![https://styled-components.com/](https://img.shields.io/badge/styled%20components--v1--white?style=for-the-badge&logo=styled-components)
-![https://eslint.org/](https://img.shields.io/badge/eslint--v1--white?style=for-the-badge&logo=eslint)
+![https://github.com/puma/puma](https://img.shields.io/badge/puma--v1--white?style=for-the-badge&logo=puma)
+![https://sass-lang.com/](https://img.shields.io/badge/sass--v1--white?style=for-the-badge&logo=sass)
+![https://github.com/turbolinks/turbolinks](https://img.shields.io/badge/turbolinks--v1--white?style=for-the-badge&logo=turbolinks)
+![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
+![http://www.rubygeocoder.com/](https://img.shields.io/badge/geocoder--v1--white?style=for-the-badge&logo=geocoder)
+
 
 ### CI / CD
 
@@ -72,55 +54,27 @@ Checkout the video demo of the app:
 
 ### Hosting
 
-- [Netlify](https://netlify.com) for Frontend and Backend
+- [Heroku](https://heroku.com) for Frontend and Backend
 
 ### Authentication
 
-- Session Cookies with bcrypt
+- Pundit with bcrypt
 
-### APIs
+## Running WildFlower
 
-- [Stripe Connect](https://stripe.com)
-- [Google Places API](https://cloud.google.com/maps-platform/places)
+`$ bundle`
+Or install it yourself as:
 
+**Contributing**
+- Fork it
+- Create your feature branch (git checkout -b my-new-feature)
+- Commit your changes (git commit -am 'Added some feature')
+- Push to the branch (git push origin my-new-feature)
+- Create new Pull Request
 
-## Running localife
-
-- Fork & clone this repo  
-  Run `npm i` in localife directory  
-  Adjust the necessary env variables to match your system. There's a .env.copy file to help you with this process.  
-  (You will need an API key for the untappd and google places APIs)  
-  Run `npm start`
-
-- Fork & clone the [server repo](https://github.com/geuxor/localife-backend)  
+**Note!**
+  Adjust the necessary env variables to match your system. 
   Make sure you have postgreSQL installed on your machine [mac](https://www.postgresql.org/download/macosx/) || [windows](https://www.postgresql.org/download/windows/)  
-  Run `npm i` in localife-backend/server directory  
-  Adjust the necessary env variables to match your system. There's a .env.copy file to help you with this process.
-  Edit the ./config/config.json file with your database details.
-  With the database running, run `npm run recreateDb`. This will generate the tables in the database and seed the data to get the project started.
-  Run `nodemon` in localife-backend/server directory
-
-## Architecture
-
-<p align="center">
- <img src="./readmeFiles/localife-provider-onboarding.png" style="zoom:20%;" >
-</p>
-
-## Observations
-
-##### Room for improvements
-
-- Explore using a more global styling method
-- Better typing for TypeScript
-- Write tests
-
-##### Upcoming Pull Requests
-
-- Deploy localife to the web
-- Add chat system
-- Add new cities
-- Add more badges
-- Create PWA 
 
 ## Developers Team
 
