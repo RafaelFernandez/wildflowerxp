@@ -61,7 +61,6 @@ Once you're logged in start searching by location and dates - you will discover 
 ## Running WildFlower
 
 `$ bundle`
-Or install it yourself as:
 
 **Contributing**
 - Fork it
@@ -71,8 +70,7 @@ Or install it yourself as:
 - Create new Pull Request
 
 **Note!**
-  Adjust the necessary env variables to match your system. 
-  Make sure you have postgreSQL installed on your machine [mac](https://www.postgresql.org/download/macosx/) || [windows](https://www.postgresql.org/download/windows/)  
+  Adjust the necessary env variables to match your system and make sure you have postgreSQL installed on your machine [mac](https://www.postgresql.org/download/macosx/) || [windows](https://www.postgresql.org/download/windows/)  
 
 ## Developers Team
 
