@@ -97,7 +97,7 @@ Thanks goes to these wonderful people ([💝 ](https://allcontributors.org/docs/
    <a href="#infra-RafaelFernandez" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> 
     <a href="https://github.com/RafaelFernandez/wildflowerxp/commits?author=RafaelFernandez" title="Code">💻</a></td>
     
-   <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/50767684?v=4" width="100px;" alt=""/><br /><sub><b>Poppy</b></sub></a><br /><a href="#infra-PoppyJennings" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/geuxor/localife-frontend/commits?author=PoppyJennings" title="Code">💻</a></td>
+   <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/50767684?v=4" width="100px;" alt=""/><br /><sub><b>Poppy</b></sub></a><br /><a href="#infra-PoppyJennings" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/RafaelFernandez/wildflowerxp/commits?author=PoppyJennings" title="Code">💻</a></td>
    
    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/76709679?v=4" width="100px;" alt=""/><br /><sub><b>Mai</b></sub></a><br /><a href="#infra-" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/RafaelFernandez/wildflowerxp/commits?author=mai-c-nguyen" title="Code">💻</a></td>
   
