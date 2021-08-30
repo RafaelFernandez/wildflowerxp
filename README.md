@@ -17,7 +17,7 @@
 <span align="center">![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)</span>
 
 <p align="center">
- <img src="./readmeFiles/logo-small.png" alt="wildflowerxp logo" width="150px;" >
+ <img src="./readmeFiles/logo-small.png" alt="wildflowerxp logo" width="200px;" >
 </p>
 
 Wildflowerxp is an app that encourages people to live adrenaline rich experiences around the world!
@@ -28,7 +28,7 @@ Once you're logged in start searching by location and dates - you will discover 
 
 ## Teaser:
 <p align="center">
- <img src="./readmeFiles/screen1.png" alt="localife logo" width="150px;" >
+ <img src="./readmeFiles/screen1.png" alt="localife logo" width="350px;" >
 </p>
 
 ## Tech Stack
