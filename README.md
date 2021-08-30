@@ -28,7 +28,7 @@ Once you're logged in start searching by location and dates - you will discover 
 
 ## Teaser:
 <p align="center">
- <img src="./readmeFiles/screen1.png" alt="localife logo" width="450px;" >
+ <img src="./readmeFiles/screen1.png" alt="localife logo" width="600px;" >
 </p>
 
 ## Tech Stack
