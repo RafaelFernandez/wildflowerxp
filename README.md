@@ -43,6 +43,7 @@ Once you're logged in start searching by location and dates - you will discover 
 ![https://github.com/turbolinks/turbolinks](https://img.shields.io/badge/turbolinks--v1--white?style=for-the-badge&logo=turbolinks)
 ![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
 ![http://www.rubygeocoder.com/](https://img.shields.io/badge/geocoder--v1--white?style=for-the-badge&logo=geocoder)
+![http://www.elasticsearch.com/](https://img.shields.io/badge/elasticsearch--v1--white?style=for-the-badge&logo=elasticsearch)
 
 
 ### CI / CD
@@ -50,9 +51,9 @@ Once you're logged in start searching by location and dates - you will discover 
 - [Github](https://github.com/features/actions)
 - [Trello](https://trello.com)
 
-### Hosting
+### Deployment
 
-- [Heroku](https://heroku.com) for Frontend and Backend
+- [Heroku](https://heroku.com) 
 
 ### Authentication
 
